@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE>CHISTERA</TITLE>
+</HEAD>
+<BODY bgcolor="blue" text="white">
+<h1 style="color:gold;><font size="7"> <center>Hola! aquí te dejo fotos de lo que he vivido y lugares que he visitado.</center></H1>
+
+
+<P><FONT SINZE="4"><CENTER> DE NOCHE CON MIS AMIGOS EN ANTIGUA GUATEMALA </CENTER>
+
+
+<center>
+<IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\semestre 1\Nueva carpeta\html\IMG-20230430-WA0061.jpg" height= "525"> 
+</center>
+
+
+<P><FONT SINZE="4"><CENTER> UNA TARDE EN PLAZA MANANTIAL, PUERTO DE SAN JOSE </CENTER>
+<center>
+<IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\semestre 1\Nueva carpeta\html\IMG-20221031-WA0026.jpeg" height= "525"> 
+</center>
+
+<P><FONT SINZE="4"><CENTER> DE PASEO POR HOBITENANGO, ANTIGUA </CENTER>
+<center>
+<IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\semestre 1\Nueva carpeta\html\IMG_20221030_115727.jpg" height= "525"> 
+</center>
+
+<P><FONT SINZE="4"><CENTER> CON MIS AMIGOS DEL TRABAJO </CENTER>
+<center>
+<IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\semestre 1\Nueva carpeta\html\IMG-20231010-WA0003.jpg" height= "525"> 
+</center>
+
+<P><FONT SINZE="4"><CENTER> CON MIS AMIGOS EN IRTRA GUATEMALA </CENTER>
+<center>
+<IMG SRC="C:\Users\yonat.DESKTOP-9BK8QN5\Desktop\semestre 1\Nueva carpeta\html\IMG-20230402-WA0022.jpg" height= "525"> 
+</center>
+
+
+
+</BODY>
+</HTML>
+
+
+

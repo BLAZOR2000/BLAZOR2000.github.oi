@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE>TODO SOBRE BRYAN LAZO</TITLE>
+</HEAD>
+<BODY bgcolor="blue" text="white">
+<h1 style="color:red;><font size="7"> <center>Hola! bienvenido a la pagina web de BRYAN LAZO ROSALES, aqui te contare un poco sobre MI.</center></H1>
+<center>
+<nav>
+<ul>
+<font size="7">
+<li><a href="C:\BLAZOHTML\niñez.html">NIÑEZ :)</A></li>
+<li><a href="C:\BLAZOHTML\lugares.html">LUGARES (: </A></li>
+<li><a href="C:\BLAZOHTML\comida.html">COMIDA  -_- </A></li>
+<li><a href="C:\BLAZOHTML\chistera.html">CHISTERA  _-_ </A></li>
+
+<p><font=sizs"4"> <center> VIDEO DE MI</CENTER></P>
+<video width="700" height= "500" controls>
+ <source src="C:\BLazo\video.mp4" type="video/mp4">
+
+</center>
+
+<p><font size="4"> <center>Mi nombre es Bryan Oscar Obdulio Lazo Rosales 
+</center>
+</p>
+
+<center>
+<IMG SRC="C:\BLazo\perfil.jpeg" height= "250">
+</center>
+
+<p><font size="4"><center> Naci el 21 de enero del año 2000 en la Cuidad de Guatemala, tengo 24 años de edad y soy hijo de Oscar Lazo y Angelica Rosales</p></center>
+<center>
+
+<IMG SRC="C:\BLazo\papaymama.jpeg" height= "230">
+</center>
+
+<p><font size="4"> <center>Mi comida favorita es el caldo de gallina
+</center>
+</p>
+
+<center>
+<IMG SRC="C:\BLazo\gallina.jpg" height= "200">
+</center>
+
+<p><font size="4"> <center>Me encanta la naturaleza, viajar y sentirme libre y  tambien me encanta la crianza de gallinas es lo que me hace sentir feliz.
+</center>
+
+<center>
+<IMG SRC="C:\BLazo\crianza.jpeg" height= "200">
+</center>
+
+<center>
+<p><font size="4"> trabajo y estudio, actualmente me encuentro trabajando en Ingenio Magdalena, es una empresa que comercializa azucar a todo el mundo desempeño el puesto de Operador de Drone. 
+estoy desempeñando mis estudios en la Universidad Mariano Galvez de Guatemala, en la sede de Escuintla los dias domingos, la carrera que tome fue "INGIENERIA EN SISTEMAS DE INFORMACION Y CIENCIAS DE LA COMPUTACION" ya que me llama la atencion mucho este tema de la informatica.  
+la verdad me siento muy contento por estar estudiando en dicha universidad.
+</p>
+</center>
+
+<center>
+<IMG SRC="C:\BLazo\opedron.jpeg" height= "250">                                                       <<IMG SRC="C:\BLazo\compest.jpeg" height= "250">
+</center>
+
+
+</body>
+</html>
